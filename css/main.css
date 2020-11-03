@@ -65,7 +65,7 @@ body {
   width: 10px;
   height: 18px;
   position: absolute;
-  background-image: url(/img/icons/arrow-menu-black.svg);
+  background-image: url(../img/icons/arrow-menu-black.svg);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
@@ -225,7 +225,7 @@ body {
 
 .card-check__input:checked + .card-check__box {
   background-color: #05c7a4;
-  background-image: url(/img/icons/check_box_round_on.svg);
+  background-image: url(../img/icons/check_box_round_on.svg);
 }
 
 /* Focused */
@@ -358,7 +358,7 @@ body {
 
 .check__input:checked + .check__box {
   background-color: #efc22d;
-  background-image: url(/img/icons/check_box_rect_on.svg);
+  background-image: url(../img/icons/check_box_rect_on.svg);
 }
 
 /* Focused */
@@ -454,7 +454,7 @@ body {
   width: 10px;
   height: 18px;
   position: absolute;
-  background-image: url(/img/icons/arrow-menu-white.svg);
+  background-image: url(../img/icons/arrow-menu-white.svg);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
