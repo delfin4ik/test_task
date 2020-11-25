@@ -37,6 +37,12 @@ body {
   }
 }
 
+@media screen and (max-width: 460px) {
+  .container {
+    min-width: 300px;
+  }
+}
+
 .header__row {
   display: flex;
   justify-content: space-between;
@@ -170,6 +176,12 @@ body {
   padding: 48px 24px;
   box-shadow: 0px 0px 10px rgba(131, 144, 193, 0.25);
   transition: all 0.2s ease-in;
+}
+
+@media screen and (max-width: 460px) {
+  .section-main__card {
+    width: 280px;
+  }
 }
 
 .section-main__card + .section-main__card {
